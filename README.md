@@ -40,7 +40,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-chahal&show_icons=true&locale=en&layout=compact" alt="coder-chahal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-chahal&show_icons=true&locale=en" alt="coder-chahal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-chahal&" alt="coder-chahal" /></p>
 
