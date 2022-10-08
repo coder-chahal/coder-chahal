@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋!I'm Aakanksha Chahal</h1>
+<h1 align="center">Hi 👋 I'm Aakanksha Chahal</h1>
 <h3 align="center">A beginner in Web developvement</h3>
 <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw2ozqX2CK5ulkDbGdedDmUg&ust=1664964407673000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMir0_WpxvoCFQAAAAAdAAAAABAD](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-chahal&label=Profile%20views&color=0e75b6&style=flat" alt="coder-chahal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-chahal" alt="coder-chahal" /></a> </p>
-🌍  I'm based in India
+
 
 - 🌱 I’m currently learning **react, react native**
 
@@ -41,9 +41,12 @@ Here are some ideas to get you started:
 
 
 <b>My GitHub Stats</b>
+<a href="https://github.com/coder-chahal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-chahal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/coder-chahal"><img src="https://github-readme-stats.vercel.app/api?username=coder-chahal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="coder-chahal's GitHub stats" /></a>
 
 <a href="http://www.github.com/coder-chahal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-chahal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/coder-chahal"><img src="https://activity-graph.herokuapp.com/graph?username=coder-chahal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
