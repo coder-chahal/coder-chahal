@@ -23,8 +23,13 @@ Here are some ideas to get you started:
 
 <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw2ozqX2CK5ulkDbGdedDmUg&ust=1664964407673000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMir0_WpxvoCFQAAAAAdAAAAABAD](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-chahal&label=Profile%20views&color=0e75b6&style=flat" alt="coder-chahal" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-chahal&label=Profile%20views&color=0e75b6&style=flat" alt="coder-chahal" /> </p> -->
 
+### Profile Views &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+![visitors](https://profile-counter.glitch.me/coder-chahal/count.svg?align=center)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-chahal" alt="coder-chahal" /></a> </p>
 
 
