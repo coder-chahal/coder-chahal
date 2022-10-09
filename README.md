@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-chahal&label=Profile%20views&color=0e75b6&style=flat" alt="coder-chahal" /> </p> -->
 
+<img align="center" alt="GIF" src="https://github.com/coder-chahal/coder-chahal/blob/main/readme/gitimg.gif" width="500"/>
+<br /> <br />
+
 ### Profile Views &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 
 ![visitors](https://profile-counter.glitch.me/coder-chahal/count.svg?align=center)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-chahal" alt="coder-chahal" /></a> </p>
