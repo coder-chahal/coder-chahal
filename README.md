@@ -41,8 +41,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I am cool dude!**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/coders_chahal008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coders_chahal008" height="30" width="40" /></a>
+<a href="https://twitter.com/coder_chahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder_chahal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@akanshachahal758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akanshachahal758" height="30" width="40" /></a>
 <a href="https://discord.gg/Aakanksha#5228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aakanksha#5228" height="30" width="40" /></a>
 </p>
